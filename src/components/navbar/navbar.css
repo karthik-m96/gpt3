@@ -2,7 +2,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-
   padding: 2rem 6rem;
 }
 
@@ -42,7 +41,6 @@
   font-size: 18px;
   line-height: 25px;
   text-transform: capitalize;
-
   margin: 0 1rem;
   cursor: pointer;
 }
