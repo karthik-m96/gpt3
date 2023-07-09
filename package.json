@@ -37,5 +37,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/karthik-m96/gpt3.git",
+  "author": "Karthik M <karthikm300796@gmail.com>",
+  "license": "MIT"
 }
